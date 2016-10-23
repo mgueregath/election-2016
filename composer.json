@@ -1,0 +1,13 @@
+{
+    "name": "emendare/counter",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mgueregath",
+            "email": "mgueregath@gmail.com"
+        }
+    ],
+    "require": {
+        "lcobucci/jwt": "^3.2"
+    }
+}
